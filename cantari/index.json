@@ -1,0 +1,13 @@
+
+[
+  {
+    "id": 1,
+    "titlu": "Cântarea 1",
+    "fisier": "001.json"
+  },
+  {
+    "id": 2,
+    "titlu": "Cântarea 2",
+    "fisier": "002.json"
+  }
+]
